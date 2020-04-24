@@ -1,0 +1,129 @@
+# Copyright (C) 2018 Keyword
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Keyword 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-05-06 16:50+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: HappyThemes <support@happythemes.com>\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid "Sorry, but it looks like nothing was found at this location. You may try one of the links below or do a search."
+msgstr ""
+
+#: 404.php:37
+msgid "Most Used Categories"
+msgstr ""
+
+#: category.php:18
+msgid "All posts in"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:57
+msgid "Theme by"
+msgstr ""
+
+#: header.php:75
+msgid "Search for&hellip;"
+msgstr ""
+
+#: header.php:76
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-loop.php:23 template-parts/content-search.php:25
+#: template-parts/content-single.php:37
+msgid "Category:"
+msgstr ""
+
+#: template-parts/content-loop.php:36 template-parts/content-search.php:40
+msgid "Continue reading"
+msgstr ""
+
+#: template-parts/content-loop.php:41 template-parts/content-search.php:45
+msgid "0 Comment"
+msgstr ""
+
+#: template-parts/content-loop.php:41 template-parts/content-search.php:45
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/content-loop.php:41 template-parts/content-search.php:45
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/content-loop.php:41 template-parts/content-search.php:45
+msgid "Comments off"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:13
+msgid "Home"
+msgstr ""
+
+#: template-parts/content-single.php:49
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-single.php:95
+msgid "About the Author:"
+msgstr ""
+
+#: template-parts/entry-meta.php:2
+msgid "Written by:"
+msgstr ""
+
+#: template-parts/entry-meta.php:3
+msgid "Posted on:"
+msgstr ""
+
+#: template-parts/pagination.php:2
+msgid "Previous"
+msgstr ""
+
+#: template-parts/pagination.php:2
+msgid "Next"
+msgstr ""
